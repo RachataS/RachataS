@@ -2,6 +2,7 @@
 
 ### About Me
 - 📌 Name : Rachata Supanurak
+- 👾 AKA : Almadel
 - 🤔 Occupation : 🖋️ Graphic designer, 📈 Trader
 - 📬 Email : rachata22097@gmail.com
 - 🏢 Location : Bangkok, Thaiand
