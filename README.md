@@ -12,6 +12,12 @@
 - 📚 Business Computer at Kanchanaphisek Technical College Mahanakorn
 - 📚 Engineering Education at KMITL
 
+### My Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachataS&show_icons=true&hide=&count_private=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RachataS&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachataS&layout=compact&theme=dark)
+
 ### My Skill
 
 <div align="left">
@@ -30,8 +36,6 @@
 <img src="https://github.com/RachataS/RachataS/assets/115066261/ea5e7087-bcd4-46a4-a8e5-52535e9cc147" height="50" width="50" alt="flutter logo"/>
   <img src="https://github.com/RachataS/RachataS/assets/115066261/43157854-9241-4603-8499-2451f5d0408e" height="50" width="50" alt="firebase logo"/>
 </div>
-
-
 <!--
 
 **RachataS/RachataS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
