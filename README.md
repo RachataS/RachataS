@@ -24,13 +24,13 @@
 
 <div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"   height="50" width="50" alt="PS logo"/>
-<img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-5.png" height="50" width="50" alt="AI logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Affinity_Photo_V2_icon.svg/2048px-Affinity_Photo_V2_icon.svg.png" height="50" width="50" alt="AfPhoto logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" height="50" width="50" alt="Davinchi logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="c logo"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-svg-vector.svg" height="50" width="50" alt="c++ logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" alt="c# logo"/> <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50" width="50" alt="firebase logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" alt="c# logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50" width="50" alt="firebase logo"/> <br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" height="50" width="50" alt="laravel logo"/>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" height="50" width="50" alt="HTML logo"/>
 <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" height="50" width="50" alt="css logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height="50" width="50" alt="js logo"/>
