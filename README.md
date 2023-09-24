@@ -2,7 +2,7 @@
 
 ### About Me
 - 📌 Name : Rachata Supanurak
-- 👾 AKA : Almadel
+- 👾 AKA : rachata.tn
 - 📬 Email : rachata22097@gmail.com
 - 🏢 Location : Bangkok, Thaiand
 
