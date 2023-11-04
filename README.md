@@ -5,7 +5,6 @@
 - 👾 AKA : rachata.tn
 - 📬 Email : rachata22097@gmail.com
 - 🏢 Location : Bangkok, Thaiand
-- 🃏 My card profile : [Here](https://profilehosting-a610a.web.app/) 
 
 ### My Education
 - 📚 Business Computer at Rattanakosinsomphotlatkrabang School
