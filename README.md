@@ -4,7 +4,8 @@
 - 📌 Name : Rachata Supanurak
 - 👾 AKA : rachata.tn
 - 📬 Email : rachata22097@gmail.com
-- 🏢 Location : Bangkok, Thaiand
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" height="20" width="20" alt="c++ logo"/> LinkedIn : <a href="https://www.linkedin.com/in/rachata-supanurak/" style="color: black;">Rachata Supanurak</a>
+-  🏢 Location : Bangkok, Thaiand
 
 ### My Education
 - 📚 Business Computer at Rattanakosinsomphotlatkrabang School
@@ -20,10 +21,10 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-svg-vector.svg" height="50" width="50" alt="c++ logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" alt="c# logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50" width="50" alt="firebase logo"/>
- <img src="https://github.com/RachataS/RachataS/assets/115066261/ea5e7087-bcd4-46a4-a8e5-52535e9cc147" height="50" width="50" alt="flutter logo"/><br>
+<img src="https://github.com/RachataS/RachataS/assets/115066261/ea5e7087-bcd4-46a4-a8e5-52535e9cc147" height="50" width="50" alt="flutter logo"/><br>
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" height="50" width="50" alt="laravel logo"/> -->
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" height="50" width="50" alt="HTML logo"/>
-<img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" height="50" width="50" alt="css logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" width="50" alt="css logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height="50" width="50" alt="js logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="50" width="50" alt="vue logo"/>
 
